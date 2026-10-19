@@ -22,6 +22,7 @@ EUBIAN GHOST participates in cybersecurity competitions and CTF events to develo
 ## Official Links
 
 - **GitHub:** https://github.com/EUBIAN-GHOST
+- https://www.linkedin.com/in/sohelr60/?isSelfProfile=true
 
 ## CTF Participation & Results — 2026
 
